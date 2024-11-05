@@ -1,6 +1,13 @@
 # Study
 study log
 
+# リンク
+[アルゴリズム](https://leetcode.com/problems/3sum/solutions/3401936/c-beat-84-98-in-time-73-12-in-memory/)
+[コンピューターサイエンス](https://leetcode.com/problems/3sum/solutions/3401936/c-beat-84-98-in-time-73-12-in-memory/)
+[コンパイラ](https://www.sigbus.info/compilerbook)
+[英語](https://www.blogger.com/blog/posts/2447539165338702392?hl=ja&tab=jj)
+
+# スケジュール
 | 時間           | やること | 月     | 火     | 水     | 木     | 金     |
 |----------------|--------|--------|--------|--------|--------|--------|
 | 5:30 - 6:00    | 起床、朝食|       |                 |                 |                 |                 |
