@@ -2,6 +2,10 @@
 study log
 
 # リンク
+[アルゴリズム](./Notes/アルゴリズム.md)
+[コンパイラ](./Notes/コンパイラ.md)
+
+
 [アルゴリズム](https://leetcode.com/problems/3sum/solutions/3401936/c-beat-84-98-in-time-73-12-in-memory/)
 [コンピューターサイエンス](https://leetcode.com/problems/3sum/solutions/3401936/c-beat-84-98-in-time-73-12-in-memory/)
 [コンパイラ](https://www.sigbus.info/compilerbook)
